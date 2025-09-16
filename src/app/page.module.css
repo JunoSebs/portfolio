@@ -1,10 +1,4 @@
-body {
-  margin: 0;
-  font-family: 'Inter', system-ui, sans-serif;
-  background: #f8f9fa;
-  color: #2d3748;
-  line-height: 1.6;
-}
+
 
 .page {
   min-height: 100vh;
