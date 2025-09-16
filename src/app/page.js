@@ -17,7 +17,7 @@ export default function Home() {
 
         <h2 className={styles.head}>About Me</h2>
         <p className={styles.about}>
-          Over the past 12 years, I've worked at the intersection of technology and leadership, helping enterprises modernize legacy systems, embrace cloud-native architecture, and deliver products that scale globally. I'm passionate about mentoring engineers and translating complex challenges into elegant, secure, and scalable solutions.
+          Over the past 12 years, I&apos;ve worked at the intersection of technology and leadership, helping enterprises modernize legacy systems, embrace cloud-native architecture, and deliver products that scale globally. I&apos;m passionate about mentoring engineers and translating complex challenges into elegant, secure, and scalable solutions.
         </p>
 
         <h2 className={styles.head}>Technical Expertise</h2>
