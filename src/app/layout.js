@@ -14,8 +14,7 @@ export const metadata = {
 
   title: "Juno Mishel Sebastian - Java Technical Lead",
 
-  description: "Experienced Java Technical Lead with 14+ years in enterprise software development, team leadership, and cloud architecture. Available for 
-opportunities across Canada.",
+  description: "Experienced Java Technical Lead with 14+ years in enterprise software development, team leadership, and cloud architecture. Available for opportunities across Canada.",
 
 };
 
